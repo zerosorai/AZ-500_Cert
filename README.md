@@ -1,8 +1,25 @@
-# AZ-500_Cert
+# AZ-500 Certificacion
 Guia para aprobar la certificacion AZ-500: Microsoft Azure Security Technologies 
 
-aqui encontraras libros, Scripts para desarollar todas las practicas desarollaremos el ambiente que solicitan en https://docs.microsoft.com/es-mx/learn/paths/manage-security-operation/
-y todo lo necesario para poder aprobar el examen debido a la informacion muchas veces publicare documentos en su idioma original en este caso en ingles americano por lo que intentare subir en el idioma español pero no tratare de traducir los terminos esto para evitar confuciones en el examen 
+## HI
+esta es una recopilacion que realice por mi parte aqui podras ver libros, Scripts para desarollar todas las practicas, desarollaremos el ambiente que solicitan en https://docs.microsoft.com/es-mx/learn/paths/manage-security-operation/
+y todo lo necesario para poder aprobar el examen debido a la informacion muchas veces publicare, documentos en su idioma original en este caso en ingles americano por lo que intentare subir en el idioma español pero no tratare de traducir los terminos esto para evitar problemas en el examen la mayoria intentare traducir o darles alguna traducion, pero mientras conforme avanza la semana estare subiendo las actividades si algo esta mal pues agregar los cambios ahi hay mucho texto videos y laboratorios asi que siente con la libertar de probarlos en un futuro dejare un laboratorio de pruebas en la nube para que trabajen durante unas horas al dia pero en lo que llega ese dia disfruten. 
+
+[![4654924-5239.jpg](https://i.postimg.cc/x1jG2Pwm/4654924-5239.jpg)](https://postimg.cc/yk53h0Y6)  
+
+
+## Authors
+
+- [@Zerosorai](https://www.github.com/zerosorai)
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 <h1 align="center">Hi 👋, I'm Michel</h1>
 <h3 align="center">A passionate Jr. Cyber Security from Mexico</h3>
