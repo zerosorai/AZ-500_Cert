@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_testappmike_name": {
+            "value": null
+        },
+        "serverfarms_EastUSPlan_name": {
+            "value": null
+        },
+        "components_testappmike_name": {
+            "value": null
+        },
+        "storageAccounts_testappmike8c21_name": {
+            "value": null
+        },
+        "alertrules_Failure_Anomalies___testappmike_name": {
+            "value": null
+        }
+    }
+}
