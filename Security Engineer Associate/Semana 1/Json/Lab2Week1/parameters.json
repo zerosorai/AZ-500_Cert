@@ -1,0 +1,51 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_Lab2WM1_name": {
+            "value": null
+        },
+        "virtualMachines_LAB4WM1_name": {
+            "value": null
+        },
+        "networkInterfaces_lab2wm1711_name": {
+            "value": null
+        },
+        "networkInterfaces_lab4wm1626_name": {
+            "value": null
+        },
+        "publicIPAddresses_Lab2WM1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_LAB4WM1_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_Lab2WM1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_LAB4WM1_nsg_name": {
+            "value": null
+        },
+        "virtualNetworks_DefaultResourceGroup_EUS_vnet_name": {
+            "value": null
+        },
+        "workspaces_defaultworkspace_bb67eb0a_b0e5_43f6_9e17_147b410bd3d4_eus_name": {
+            "value": null
+        },
+        "solutions_Security_DefaultWorkspace_bb67eb0a_b0e5_43f6_9e17_147b410bd3d4_EUS__name": {
+            "value": null
+        },
+        "templateSpecs_DefaultWorkspace_bb67eb0a_b0e5_43f6_9e17_147b410bd3d4_EUS_dc_kqzisroiyppoc_name": {
+            "value": null
+        },
+        "solutions_SecurityCenterFree_DefaultWorkspace_bb67eb0a_b0e5_43f6_9e17_147b410bd3d4_EUS__name": {
+            "value": null
+        },
+        "solutions_SQLVulnerabilityAssessment_DefaultWorkspace_bb67eb0a_b0e5_43f6_9e17_147b410bd3d4_EUS__name": {
+            "value": null
+        },
+        "solutions_SQLAdvancedThreatProtection_DefaultWorkspace_bb67eb0a_b0e5_43f6_9e17_147b410bd3d4_EUS__name": {
+            "value": null
+        }
+    }
+}
