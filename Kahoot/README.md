@@ -4,7 +4,7 @@ Kahoot! ha sido diseñado con fines educativos en mente, aunque podría perfecta
 Es sin embargo más una herramienta de refuerzo, pues la naturaleza de las preguntas son demasiado cortas como para entrar en demasiado detalle. Aquí lo bueno es que el profesor -o aquel que está controlando la partida- puede controlar con precisión cuándo se pasa a la siguiente pregunta, de modo que puede hacer pausas para añadir las explicacionese necesarias.
 
 ## Examenes Z-500
-aqui en buen sherpa nos esta realizando pruebas de Kahoot para no reprobar el Examen 
+aqui el buen sherpa nos esta realizando pruebas de Kahoot para no reprobar el Examen 
 
 # Examen en Video respondiendo y explicando 
 [![ Kahoot az-500](https://img.youtube.com/vi/KHEn_O54OGQ/0.jpg)](https://youtu.be/KHEn_O54OGQ)
