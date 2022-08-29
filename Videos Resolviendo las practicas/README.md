@@ -3,8 +3,7 @@ el compañero @AkiraLnAKAMURE me envio este enlace donde contiene las practicas 
 
 ## Acceso a los videos
 
-liga: https://mega.io/folder/4X1GmSCD
-clave del cifrado: weAkEthnBhAr4Iozr-ZKoQ
+liga: https://mega.nz/folder/4X1GmSCD#weAkEthnBhAr4Iozr-ZKoQ
 
 esto lo incluyo por parte de el por si quieren una cuenta https://mega.nz/aff=Xs_-JlxGZlo
 
