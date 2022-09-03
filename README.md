@@ -5,6 +5,9 @@ Guia para aprobar la certificacion AZ-500: Microsoft Azure Security Technologies
 esta es una recopilacion que realice por mi parte aqui podras ver libros, Scripts para desarollar todas las practicas, desarollaremos el ambiente que solicitan en https://docs.microsoft.com/es-mx/learn/paths/manage-security-operation/
 y todo lo necesario para poder aprobar el examen debido a la informacion muchas veces publicare, documentos en su idioma original en este caso en ingles americano por lo que intentare subir en el idioma español pero no tratare de traducir los terminos esto para evitar problemas en el examen la mayoria intentare traducir o darles alguna traducion, pero mientras conforme avanza la semana estare subiendo las actividades si algo esta mal pues agregar los cambios ahi hay mucho texto videos y laboratorios asi que siente con la libertar de probarlos en un futuro dejare un laboratorio de pruebas en la nube para que trabajen durante unas horas al dia pero en lo que llega ese dia disfruten. 
 
+Exam Free
+https://www.udemy.com/course/examen-az-500-tecnologias-de-seguridad-de-microsoft-azure/?couponCode=OPERACIONALEPH
+
 [![4654924-5239.jpg](https://i.postimg.cc/x1jG2Pwm/4654924-5239.jpg)](https://postimg.cc/yk53h0Y6)  
 
 
